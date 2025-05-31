@@ -1,7 +1,7 @@
 # 📊 Documentation Technique - Analyse TikTok "Pour Toi"
 
 ## 🎯 Vue d'ensemble du projet
-J' ai scrappé des données peovenant de la célebre réseau TikTok à partir de ScrapperApi pour analysé le Tag pouToi souvent utilisé par les créateurs de contenus .
+J' ai scrappé des données provenant de  TikTok à partir de ScrapperApi pour analysé le Tag pouToi souvent utilisé par les créateurs de contenus .
 Cette analyse présente un tableau de bord interactif développé pour analyser les performances et tendances des contenus TikTok associés au hashtag "Pour Toi". 
 ## 🔧 Stack Technique
 
