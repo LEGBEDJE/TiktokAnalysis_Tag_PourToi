@@ -196,9 +196,6 @@ npm install react recharts lucide-react papaparse
 - Détection automatique des influenceurs émergents
 - Recommandations de contenu personnalisées
 
-## 📝 Conclusion
-
-Ce projet démontre une maîtrise complète de la chaîne de traitement des données, de l'extraction à la visualisation interactive. L'approche modulaire et scalable permet une évolution facile vers des analyses plus complexes et des volumes de données plus importants.
 
 ### Compétences mises en avant
 ✅ **Data Engineering** : Parsing, nettoyage, transformation  
@@ -209,4 +206,5 @@ Ce projet démontre une maîtrise complète de la chaîne de traitement des donn
 
 ---
 
-*Développé avec passion pour démontrer l'expertise en analyse de données et développement web moderne* 🚀
+*Développé avec passion *
+analyse de données et développement web moderne* 🚀
